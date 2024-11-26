@@ -1,6 +1,8 @@
 # neusoft-information-security-exam-auto-script
 neusoft information security exam auto script
 
+东软信息安全考试自动答题脚本（油猴）
+
 ## How to use it?
 
 1. Install Tampermonkey in your browser extension.
