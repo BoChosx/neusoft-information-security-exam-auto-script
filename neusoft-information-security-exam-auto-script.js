@@ -6,6 +6,7 @@
 // @author       东软某部门好心人
 // @match        *://learning.neusoft.com/o2o/*
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 (
